@@ -1,0 +1,8 @@
+Min_Time_Vector=[25395.0, 2860.0]
+Max_Time_Vector=[180585.0, 2853.0]
+Min_Cost_Vector=[120856.0, 200.0]
+Max_Cost_Vector=[133310.0, 5597.0]
+Ideal_Vector=[25395.0, 200.0]
+Nadir_Vector=[120856.0, 2860.0]
+Worst_Vector=[180585.0, 5597.0]
+Hypervolume_Weighted=0.951058875835383
